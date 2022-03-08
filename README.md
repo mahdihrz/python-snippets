@@ -10,6 +10,6 @@ I am organizing usefull Snippets in the repo here
 
     pip3 install pandas
     
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 
